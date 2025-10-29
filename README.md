@@ -3,15 +3,15 @@
 
 ![Estação montada](img/capa.jpg)
 
-##  Sobre o Projeto 
+## Sobre o Projeto
 
-Este projeto apresenta a **evolução de um protótipo de estação meteorológica de baixo custo**, desenvolvido no **Instituto Federal Catarinense - Campus Camboriú**, com o objetivo de funcionar de forma contínua em ambientes externos. 
+Este projeto apresenta a **evolução de um protótipo de estação meteorológica de baixo custo**, desenvolvido no **Instituto Federal Catarinense - Campus Camboriú**, com o objetivo de funcionar de forma contínua em ambientes externos.
 
 A proposta é criar uma estação **acessível, precisa e replicável**, utilizando **impressão 3D**, **componentes eletrônicos de baixo custo** e **tecnologias IoT**, permitindo o monitoramento climático em tempo real.
 
 ---
 
-##  Equipe de Desenvolvimento
+## Equipe de Desenvolvimento
 
 - **Rafael Luiz C. Santos Pereira**
 - **Cauã da Costa Silva**
@@ -36,9 +36,10 @@ A proposta é criar uma estação **acessível, precisa e replicável**, utiliza
 
 ---
 
-##  Estrutura Física
+## Estrutura Física
 
 A estrutura foi **impressa em 3D (FDM) desenhada para:
+
 - Resistir à chuva e ventos;
 - Ser montada por encaixe e rosca;
 - Reduzir o número de partes e o tempo de impressão;
@@ -62,6 +63,7 @@ Mais informações em [`docs/comunicacao.md`](docs/comunicacao.md).
 O código-fonte está em [`firmware/src`](firmware/src).
 
 Funções principais:
+
 - Leitura dos sensores (BME280, AS5600, reed switch);
 - Cálculo de chuva e vento;
 - Envio de dados via HTTP;
