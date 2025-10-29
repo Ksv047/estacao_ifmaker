@@ -3,7 +3,7 @@
 
 ![Estação montada](img/capa.jpg)
 
-##  Sobre o Projeto
+##  Sobre o Projeto 
 
 Este projeto apresenta a **evolução de um protótipo de estação meteorológica de baixo custo**, desenvolvido no **Instituto Federal Catarinense - Campus Camboriú**, com o objetivo de funcionar de forma contínua em ambientes externos. 
 
